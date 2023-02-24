@@ -1,0 +1,753 @@
+@media (min-width: 279px) and (max-width: 319px){
+/*css start*/
+    .header .navbar-expand-lg .navbar-nav .nav-link {
+        margin: 0px 0px 0px 0px;
+    }
+    .header .navbar-nav .nav-link.active {
+        background: url(../images/under-nav.png) left bottom no-repeat;
+        background-size: auto;
+    }
+    .header .navbar-expand-lg .navbar-nav .nav-link:hover {
+        background: url("../images/under-nav.png") left bottom no-repeat;
+        background-size: auto;
+    }
+
+    .header .navbar-expand-lg .navbar-nav .nav-link:focus {
+        background: url("../images/under-nav.png") left bottom no-repeat;
+        background-size: auto;
+    }
+    .banner {
+        width: 100%;
+        padding: 40px 0px 20px;
+    }
+    .inner-banner h4 {
+        font-size: 10px;
+    }
+    .inner-banner h1 {
+        font-size: 21px;
+        margin: 10px 0px 10px;
+    }
+    .inner-banner p {
+        width: 100%;
+        font-size: 9px;
+    }
+    .inner-banner .inner-btn {
+        padding: 20px 0px;
+    }
+    .inner-banner .inner-btn .btn-primary {
+        font-size: 7px;
+        padding: 10px 15px;
+        margin: 0px 11px 0px 0px;
+    }
+    .inner-banner .inner-btn .btn-secondary{
+        font-size: 7px;
+        padding: 10px 15px;
+    }
+    .title h4 {
+        font-size: 14px;
+    }
+    .title h1 {
+        font-size: 20px;
+    }
+    .feature {
+        border: 0px;
+        border-bottom: 1px solid #ededed;
+    }
+    .feature .inner-feature {
+        padding: 16px 6px;
+    }
+    .feature .inner-feature .inner-feature-img {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+    }
+    .feature .inner-feature h4 {
+        font-size: 14px;
+    }
+    .feature .inner-feature p{
+        font-size: 11px;
+        margin: 8px 0px 0px;
+    }
+    .about-long p {
+        width: 100%;
+        font-size: 11px;
+        margin: 0px 0px 10px;
+    }
+    .about-long .title h1{
+       font-size: 20px; 
+    }
+    .about-short .title {
+        padding: 40px 0px 20px;
+    }
+    .about-short .title h1{
+       font-size: 20px; 
+    }
+    .about-short p{
+        font-size: 11px;
+    }
+    .testimonial {
+        width: 100%;
+        padding: 30px 0px;
+    }
+    .testimonial .title {
+        width: 100%;
+        padding: 0px 0px 30px;
+    }
+    .testimonial .title h4{
+        font-size: 10px;
+    }
+    .testimonial .owl-carousel .item {
+        padding: 0px 25px;
+    }
+    .testimonial .owl-carousel .item h4 {
+        font-size: 11px;
+        margin: 0px 0px 12px;
+    }
+    .testimonial .owl-carousel .item img {
+        width: 40px;
+        height: 40px;
+    }
+    .testimonial .owl-carousel .item p {
+        font-size: 9px;
+        margin: 0px 0px 5px;
+    }
+    .testimonial .owl-carousel .item h5 {
+        font-size: 10px;
+    }
+    .testimonial .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-top: 40px;
+    }
+    .eye-catcher {
+        padding: 20px 0px;
+    }
+    .eye-catcher h2{
+        font-size: 11px;
+    }
+    .eye-catcher .inner-btn {
+        width: 100%;
+        text-align: left;
+        padding: 10px 0px 0px;
+    }
+    .eye-catcher .inner-btn .btn-primary {
+        font-size: 7px;
+        padding: 10px 20px;
+    }
+    .eye-catcher .inner-btn .btn-secondary{
+        font-size: 7px;
+        padding: 10px 20px;
+        margin: 0px 5px 0px 0px;
+    }
+    .price .inner-price {
+        width: 100%;
+        padding: 0px 10px;
+        text-align: center;
+        margin: 0px 0px 15px;
+        border: 1px solid #e0e0e0;
+    }
+    .price .title{
+        padding: 0px 0px 40px;
+    }
+    .price .inner-price .main-price {
+        padding: 15px 0px 0px;
+        border: 0px;
+        transition: 1s;
+    }
+    .price .inner-price .main-price h1 {
+        font-size: 40px;
+    }
+    .price .inner-price .main-price h1 sup {
+        font-size: 24px;
+        top: -14px;
+    }
+    .price .inner-price .main-price p {
+        font-size: 12px;
+    }
+    .price .inner-price .price-header{
+        border: 0px;
+    }
+    .price .inner-price .price-header h2 {
+        font-size: 18px;
+    }
+    .price .inner-price .price-text {
+        padding: 13px 25px;
+        border: 0px;
+    }
+    .price .inner-price .price-text p {
+        margin: 0px 0px 30px;
+        font-size: 11px;
+    }
+    .contact {
+        padding: 40px 0px 0px;
+    }
+
+    .contact .title{
+        padding: 0px 0px 30px;
+    }
+    .contact .inner-contact a img {
+        height: 18px;
+    }
+    .contact .inner-contact p {
+        font-size: 5px;
+        margin: 10px 0px 30px;
+    }
+    .contact .contact-form .form-control {
+        padding: 10px 30px;
+        margin: 0px 0px 15px;
+    }
+    .contact .contact-form textarea{
+        height: 100px;
+    }
+    .contact .contact-form .btn-primary{
+        font-size: 9px;
+        padding: 10px 20px;
+    }
+    .footer{
+        padding: 20px 0px 10px;
+    }
+    .inner-footer ul li a i{
+        font-size: 12px;
+    }
+    .footer .footer-text{
+       font-size: 8px;
+    }
+/*css end*/
+/*css end*/
+}
+@media (min-width: 320px) and (max-width: 480px){
+/*css start*/
+    .header .navbar-expand-lg .navbar-nav .nav-link {
+        margin: 0px 0px 0px 0px;
+    }
+    .header .navbar-nav .nav-link.active {
+        background: url(../images/under-nav.png) left bottom no-repeat;
+        background-size: auto;
+    }
+    .header .navbar-expand-lg .navbar-nav .nav-link:hover {
+        background: url("../images/under-nav.png") left bottom no-repeat;
+        background-size: auto;
+    }
+
+    .header .navbar-expand-lg .navbar-nav .nav-link:focus {
+        background: url("../images/under-nav.png") left bottom no-repeat;
+        background-size: auto;
+    }
+    .banner {
+        width: 100%;
+        padding: 80px 0px 20px;
+    }
+    .inner-banner h4 {
+        font-size: 14px;
+    }
+    .inner-banner h1 {
+        font-size: 33px;
+        margin: 14px 0px 14px;
+    }
+    .inner-banner p {
+        width: 100%;
+        font-size: 13px;
+    }
+    .inner-banner .inner-btn .btn-primary {
+        font-size: 10px;
+        padding: 15px 30px;
+        margin: 0px 11px 0px 0px;
+    }
+    .inner-banner .inner-btn .btn-secondary{
+        font-size: 10px;
+        padding: 15px 30px;
+    }
+    .title h4 {
+        font-size: 14px;
+    }
+    .title h1 {
+        font-size: 24px;
+    }
+    .feature {
+        border: 0px;
+        border-bottom: 1px solid #ededed;
+    }
+    .feature .inner-feature h4 {
+        font-size: 17px;
+    }
+    .feature .inner-feature p{
+        font-size: 16px;
+        margin: 8px 0px 0px;
+    }
+    .about-long p {
+        width: 100%;
+        font-size: 16px;
+        margin: 0px 0px 10px;
+    }
+    .about-long .title h1{
+       font-size: 24px; 
+    }
+    .about-short .title {
+        padding: 40px 0px 20px;
+    }
+    .about-short .title h1{
+       font-size: 24px; 
+    }
+    .testimonial {
+        width: 100%;
+        padding: 30px 0px;
+    }
+    .testimonial .title {
+        width: 100%;
+        padding: 0px 0px 30px;
+    }
+    .testimonial .title h4{
+        font-size: 10px;
+    }
+    .testimonial .owl-carousel .item h4 {
+        font-size: 14px;
+        margin: 0px 0px 14px;
+    }
+    .testimonial .owl-carousel .item img {
+        width: 65px;
+        height: 65px;
+    }
+    .testimonial .owl-carousel .item p {
+        font-size: 14px;
+        margin: 0px 0px 3px;
+    }
+    .testimonial .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-top: 40px;
+    }
+    .eye-catcher {
+        padding: 20px 0px;
+    }
+    .eye-catcher h2{
+        font-size: 13px;
+    }
+    .eye-catcher .inner-btn {
+        width: 100%;
+        text-align: left;
+        padding: 10px 0px 0px;
+    }
+    .eye-catcher .inner-btn .btn-primary {
+        font-size: 8px;
+        padding: 15px 30px;
+    }
+    .eye-catcher .inner-btn .btn-secondary{
+        font-size: 8px;
+        padding: 15px 30px;
+    }
+    .price .inner-price {
+        width: 100%;
+        padding: 0px 20px;
+        text-align: center;
+        margin: 0px 0px 15px;
+        border: 1px solid #e0e0e0;
+    }
+    .price .inner-price .main-price {
+        padding: 15px 0px 0px;
+        border: 0px;
+        transition: 1s;
+    }
+    .price .inner-price .main-price h1 {
+        font-size: 40px;
+    }
+    .price .inner-price .main-price h1 sup {
+        font-size: 24px;
+        top: -14px;
+    }
+    .price .inner-price .main-price p {
+        font-size: 12px;
+    }
+    .price .inner-price .price-header{
+        border: 0px;
+    }
+    .price .inner-price .price-text {
+        padding: 16px 33px;
+        border: 0px;
+    }
+    .contact {
+        padding: 40px 0px 0px;
+    }
+
+    .contact .title{
+        padding: 0px 0px 30px;
+    }
+    .contact .inner-contact a img {
+        height: 24px;
+    }
+    .price .inner-price .price-header h2 {
+        font-size: 20px;
+    }
+    .contact .inner-contact p {
+        font-size: 7px;
+        margin: 10px 0px 30px;
+    }
+    .contact .contact-form .form-control {
+        padding: 10px 30px;
+        margin: 0px 0px 15px;
+    }
+    .contact .contact-form textarea{
+        height: 100px;
+    }
+    .contact .contact-form .btn-primary{
+        font-size: 9px;
+        padding: 10px 20px;
+    }
+    .footer{
+        padding: 20px 0px 10px;
+    }
+    .inner-footer ul li a i{
+        font-size: 20px;
+    }
+    .footer .footer-text{
+       font-size: 12px;
+    }
+/*css end*/
+}
+@media (min-width: 481px) and (max-width: 768px){
+/*css start*/
+    .header .navbar-expand-lg .navbar-nav .nav-link {
+        margin: 0px 0px 0px 0px;
+    }
+    .header .navbar-nav .nav-link.active {
+        background: url(../images/under-nav.png) left bottom no-repeat;
+        background-size: auto;
+    }
+    .header .navbar-expand-lg .navbar-nav .nav-link:hover {
+        background: url("../images/under-nav.png") left bottom no-repeat;
+        background-size: auto;
+    }
+
+    .header .navbar-expand-lg .navbar-nav .nav-link:focus {
+        background: url("../images/under-nav.png") left bottom no-repeat;
+        background-size: auto;
+    }
+    .banner {
+        width: 100%;
+        padding: 80px 0px 20px;
+    }
+    .inner-banner h4 {
+        font-size: 14px;
+    }
+    .inner-banner h1 {
+        font-size: 33px;
+        margin: 14px 0px 14px;
+    }
+    .inner-banner p {
+        width: 100%;
+        font-size: 13px;
+    }
+    .inner-banner .inner-btn .btn-primary {
+        font-size: 10px;
+        padding: 15px 30px;
+        margin: 0px 11px 0px 0px;
+    }
+    .inner-banner .inner-btn .btn-secondary{
+        font-size: 10px;
+        padding: 15px 30px;
+    }
+    .title h4 {
+        font-size: 14px;
+    }
+    .title h1 {
+        font-size: 24px;
+    }
+    .feature {
+        border: 0px;
+        border-bottom: 1px solid #ededed;
+    }
+    .feature .inner-feature h4 {
+        font-size: 17px;
+    }
+    .feature .inner-feature p{
+        font-size: 16px;
+        margin: 8px 0px 0px;
+    }
+    .about-long p {
+        width: 100%;
+        font-size: 16px;
+        margin: 0px 0px 10px;
+    }
+    .about-long .title h1{
+       font-size: 24px; 
+    }
+    .about-short .title {
+        padding: 40px 0px 20px;
+    }
+    .about-short .title h1{
+       font-size: 24px; 
+    }
+    .testimonial {
+        width: 100%;
+        padding: 30px 0px;
+    }
+    .testimonial .title {
+        width: 100%;
+        padding: 0px 0px 30px;
+    }
+    .testimonial .title h4{
+        font-size: 10px;
+    }
+    .testimonial .owl-carousel .item h4 {
+        font-size: 14px;
+        margin: 0px 0px 14px;
+    }
+    .testimonial .owl-carousel .item img {
+        width: 65px;
+        height: 65px;
+    }
+    .testimonial .owl-carousel .item p {
+        font-size: 14px;
+        margin: 0px 0px 3px;
+    }
+    .testimonial .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-top: 40px;
+    }
+    .eye-catcher {
+        padding: 20px 0px;
+    }
+    .eye-catcher h2{
+        font-size: 13px;
+    }
+    .eye-catcher .inner-btn {
+        width: 100%;
+        text-align: left;
+        padding: 10px 0px 0px;
+    }
+    .eye-catcher .inner-btn .btn-primary {
+        font-size: 8px;
+        padding: 15px 30px;
+    }
+    .eye-catcher .inner-btn .btn-secondary{
+        font-size: 8px;
+        padding: 15px 30px;
+    }
+    .price .inner-price {
+        width: 100%;
+        padding: 0px 20px;
+        text-align: center;
+        margin: 0px 0px 15px;
+        border: 1px solid #e0e0e0;
+    }
+    .price .inner-price .main-price {
+        padding: 15px 0px 0px;
+        border: 0px;
+        transition: 1s;
+    }
+    .price .inner-price .main-price h1 {
+        font-size: 40px;
+    }
+    .price .inner-price .main-price h1 sup {
+        font-size: 24px;
+        top: -14px;
+    }
+    .price .inner-price .main-price p {
+        font-size: 12px;
+    }
+    .price .inner-price .price-header{
+        border: 0px;
+    }
+    .price .inner-price .price-text {
+        padding: 16px 33px;
+        border: 0px;
+    }
+    .contact {
+        padding: 40px 0px 0px;
+    }
+
+    .contact .title{
+        padding: 0px 0px 30px;
+    }
+    .contact .inner-contact a img {
+        height: 24px;
+    }
+    .price .inner-price .price-header h2 {
+        font-size: 20px;
+    }
+    .contact .inner-contact p {
+        font-size: 7px;
+        margin: 10px 0px 30px;
+    }
+    .contact .contact-form .form-control {
+        padding: 10px 30px;
+        margin: 0px 0px 15px;
+    }
+    .contact .contact-form textarea{
+        height: 100px;
+    }
+    .contact .contact-form .btn-primary{
+        font-size: 9px;
+        padding: 10px 20px;
+    }
+    .footer{
+        padding: 20px 0px 10px;
+    }
+    .inner-footer ul li a i{
+        font-size: 20px;
+    }
+    .footer .footer-text{
+       font-size: 12px;
+    }
+/*css end*/
+/*css end*/
+}
+@media (min-width: 769px) and (max-width: 1024px){
+/*css start*/
+   .header .navbar-expand-lg .navbar-nav .nav-link {
+        margin: 0px 0px 0px 0px;
+    }
+    .header .navbar-nav .nav-link.active {
+        background: url(../images/under-nav.png) left bottom no-repeat;
+        background-size: auto;
+    }
+    .header .navbar-expand-lg .navbar-nav .nav-link:hover {
+        background: url("../images/under-nav.png") left bottom no-repeat;
+        background-size: auto;
+    }
+
+    .header .navbar-expand-lg .navbar-nav .nav-link:focus {
+        background: url("../images/under-nav.png") left bottom no-repeat;
+        background-size: auto;
+    }
+    .banner {
+        width: 100%;
+        padding: 80px 0px 20px;
+    }
+    .inner-banner h4 {
+        font-size: 24px;
+    }
+    .inner-banner h1 {
+        font-size: 61px;
+        margin: 30px 0px;
+    }
+    .inner-banner p {
+        width: 100%;
+        font-size: 24px;
+    }
+    .inner-banner .inner-btn .btn-primary {
+        font-size: 14px;
+        padding: 20px 40px;
+        margin: 0px 20px 0px 0px
+    }
+    .inner-banner .inner-btn .btn-secondary{
+        font-size: 14px;
+        padding: 20px 40px;
+    }
+    .title h4 {
+        font-size: 18px;
+    }
+    .title h1 {
+        font-size: 45px;
+    }
+    .feature {
+        border: 0px;
+        border-bottom: 1px solid #ededed;
+    }
+    .feature .inner-feature {
+        padding: 25px 0px;
+    }
+    .feature .inner-feature .inner-feature-img {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        margin: 0px auto 30px;
+    }
+    .feature .inner-feature h4 {
+        font-size: 14px;
+    }
+    .feature .inner-feature p{
+        font-size: 12px;
+        margin: 8px 0px 0px;
+    }
+    .about-long p {
+        font-size: 14px;
+    }
+     .about-long .title h4{
+       font-size: 17px; 
+    }
+    .about-long .title h1{
+       font-size: 24px; 
+    }
+    .about-short .title {
+        padding: 40px 0px 20px;
+    }
+     .about-short .title h4{
+       font-size: 17px; 
+    }
+    .about-short .title h1{
+       font-size: 23px; 
+    }
+    .testimonial .title h4{
+        font-size: 18px;
+    }
+    .eye-catcher {
+        padding: 20px 0px;
+    }
+    .eye-catcher h2{
+        font-size: 18px;
+    }
+    .eye-catcher .inner-btn .btn-primary {
+        font-size: 8px;
+        padding: 15px 30px;
+    }
+    .eye-catcher .inner-btn .btn-secondary{
+        font-size: 8px;
+        padding: 15px 30px;
+    }
+    .price .inner-price .main-price {
+        padding: 15px 0px 0px;
+        transition: 1s;
+    }
+    .price .inner-price .main-price h1 {
+        font-size: 28px;
+    }
+    .price .inner-price .main-price h1 sup {
+        font-size: 16px;
+        top: -9px;
+    }
+    .price .inner-price .main-price p {
+        font-size: 10px;
+    }
+    .price .inner-price .price-text {
+        padding: 10px 25px;
+    }
+    .price .inner-price .price-text p {
+        font-size: 10px;
+        margin: 0px 0px 20px;
+    }
+    .price .inner-price .price-text .btn-primary {
+        font-size: 8px;
+        padding: 10px 20px;
+    }
+    .price .inner-price .price-text .btn-secondary{
+        font-size: 8px;
+        padding: 10px 20px;
+    }
+    .contact {
+        padding: 40px 0px 0px;
+    }
+
+    .contact .title{
+        padding: 0px 0px 30px;
+    }
+    .contact .inner-contact a img {
+        height: 24px;
+    }
+    .price .inner-price .price-header h2 {
+        font-size: 20px;
+    }
+    .contact .inner-contact p {
+        font-size: 14px;
+        margin: 14px 0px 40px;
+    }
+    .contact .contact-form .btn-primary{
+        width: 100%;
+    }
+/*
+    .footer{
+        padding: 20px 0px 10px;
+    }
+    .inner-footer ul li a i{
+        font-size: 20px;
+    }
+    .footer .footer-text{
+       font-size: 12px;
+    }
+*/
+/*css end*/
+}
